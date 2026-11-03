@@ -1,16 +1,16 @@
-# WonderSnap 🌟
+# WonderSnap 
 > **Interactive Gesture-Controlled 3D Visual Experience**  
 > Control the digital world with your hands in real time using AI Computer Vision & WebGL.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 **WonderSnap** is a high-performance, real-time interactive web application where users command stunning 3D particle effects using hand gestures captured by their webcam. Powered by **MediaPipe Hands**, **Three.js**, and hardware-accelerated **WebGL**, WonderSnap processes 21 hand landmarks locally inside the browser with zero server latency and complete user privacy.
 
 ---
 
-## 🖐️ Hand Gestures & Interactive Mechanics
+##  Hand Gestures & Interactive Mechanics
 
 | Gesture | Landmark Logic | 3D Visual & Audio Reaction |
 | :--- | :--- | :--- |
@@ -23,7 +23,7 @@
 
 ---
 
-## 🌌 3D Visual Effects Modes
+##  3D Visual Effects Modes
 
 1. **Particle Galaxy**: 22,000+ luminous particles organized in 4 logarithmic spiral arms with a dense stellar core and celestial dust.
 2. **Fireworks**: Dynamic bursting shells with velocity, gravity physics, and color shifts.
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **HTML5 & CSS3**: Glassmorphism, futuristic dark HUD, responsive grid & flexbox layouts.
 - **MediaPipe Hands**: Real-time 21-landmark 3D hand tracking and multi-hand detection.
@@ -44,7 +44,7 @@
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 WonderSnap/
